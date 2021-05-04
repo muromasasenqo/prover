@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\obj\Debug\proverocnaya.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\obj\Debug\proverocnaya.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\bin\Debug\proverocnaya.exe.config
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\bin\Debug\proverocnaya.exe
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\bin\Debug\proverocnaya.pdb
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\obj\Debug\proverocnaya.exe
+C:\Users\USER\source\repos\proverocnaya\proverocnaya\obj\Debug\proverocnaya.pdb
